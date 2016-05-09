@@ -401,6 +401,21 @@
          style="fill:#0101ff;fill-opacity:1;fill-rule:evenodd;stroke:#0101ff;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8-63-6-1-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6135-2-4-8-2-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -410,8 +425,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="415.68469"
-     inkscape:cy="632.56737"
+     inkscape:cx="623.28401"
+     inkscape:cy="203.99594"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -766,19 +781,23 @@
        y="705.11041" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:18.53846169px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="635.98712"
-       y="874.59808"
+       style="font-style:normal;font-weight:normal;font-size:13.30150223px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="609.13837"
+       y="852.20886"
        id="text5929-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="635.98712"
-         y="874.59808"
-         id="tspan5933-4">Door</tspan><tspan
+         x="609.13837"
+         y="852.20886"
+         id="tspan7446">Door Opening</tspan><tspan
          sodipodi:role="line"
-         x="635.98712"
-         y="897.77118"
-         id="tspan7446">Opening</tspan></text>
+         x="609.13837"
+         y="868.83575"
+         id="tspan4386">Recommended 34&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="609.13837"
+         y="885.46265"
+         id="tspan4887">Wide</tspan></text>
     <rect
        style="opacity:0.66399997;fill:#ff0000;fill-opacity:1;stroke:#0000ff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
        id="rect4146-41-8-7"
