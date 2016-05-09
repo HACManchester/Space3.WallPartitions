@@ -12,6 +12,5 @@ I did hunt around for any nearyby scafolding we could "borrow" but couldn't see 
 ## Ladders
 
   * I have some ladders I can bring in which should reach the ceiling (they look very similar to the ones in the space, just longer)
-  * However we're a little worried about the ladders disappearing, so if it's okay I'd like to padlock them to something
-    After I bring them in / while they're not in use (maybe the lathe), I've already got a padlock and bit of chain I can use
-
+  * However we're a little worried about the ladders disappearing, so a condition of loaning them out is that we'd like them to be padlocked to
+    one of the pillars when not in use, we already have a bit of chain and padlock to use
