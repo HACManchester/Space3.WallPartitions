@@ -1,10 +1,11 @@
 # Readme
 
-  * TopView1.svg - Placement of uprights / wall anchor beams / wall numbers
+  * TopView1.svg / png - Placement of uprights / wall anchor beams / wall numbers
+  * Sideview.svg / png - Side view of the frame layout
 
 ## TODO
 
-I'm still working on this at the moment to type everything up
+Just need to finish checking the numbers
 
-  * WallList.ods - I need to update this from paper copy
-  * FrameDoor1.svg - I need to update this from paper copy
+  * WallList.ods - List of beams per wall
+
