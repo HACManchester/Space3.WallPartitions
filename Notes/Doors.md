@@ -16,6 +16,8 @@ That being said there are some other reasons why you might want to consider the 
   * They're already 900mm across which covers wheelchair access (32inch)
   * One downside is they tend to be a bit heavy, but the frame we've but together should handle it without problems
 
+Ideally we want a minimum of 850mm for wheelchair access
+
 If you want to try and go for even cheaper doors
 
   * One option is to get one of the smaller ones from Wicks or B&Q, if it needs to be wider then you could always nail or screw a bit of wood onto the side of it
