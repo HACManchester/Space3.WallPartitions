@@ -34,6 +34,13 @@ See images for rough wall layout, once we've decided on the amount of wood to us
 
 we can use 63 X 38 X 2400mm for the smaller bits of wood, and possibly use the planer to take it down to 60mm so that it's the same thickness one way as the other bigger wood
 
+## Fire Proof Walls
+
+For the weldy area
+We've discovered that for osb you can ether get it pre-coated in fire proof paint or add the paint afterwards but ether way it costs a lot
+The cheapest way to do it is to get some fire proof plasterboard from travis perkins for about £12 a sheet for 8 x 4 foot
+This might be an idea for phase 2
+
 ### Screws
 
 We have some screws spare, but they're not long enough to go all the way through the wood.
